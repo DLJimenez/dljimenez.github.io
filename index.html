@@ -3,8 +3,14 @@ title: Home Page
 color: green
 ---
 
+{% include head.html %}
+
 <h1 style="color:blue; font-family:cursive;">{{ site.title }}</h1>
 
 <h2 style="color:red; font-family:cursive;">{{ page.title }}</h2>
 
 <p>My second favorite color is {{ page.color }}. My email is: {{ site.email }}. A little bit about me: {{site.description}}</p>
+
+
+  </body>
+</html>

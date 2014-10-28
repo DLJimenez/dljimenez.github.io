@@ -1,0 +1,10 @@
+# Site settings
+title: Dionys Jimenez
+email: dljimenez@albany.edu
+description: Dionys is a front-end developer from New York.
+url: dljimenez.github.io
+github_username: dljimenez
+
+# Build settings
+markdown: kramdown
+permalink: pretty

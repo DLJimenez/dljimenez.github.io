@@ -6,5 +6,7 @@ image: http://media.specialfork.com/uploads/recipes/Image_-_Turkey_BLT_Sandwich.
 
 I had a turkey sandwich.
 
+{{ page.image }}
+
 
 

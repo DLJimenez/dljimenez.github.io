@@ -18,8 +18,8 @@ layout: post
  
 ###Header Level 3
  
--Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
--Aliquam tincidunt mauris eu risus.
+- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+- Aliquam tincidunt mauris eu risus.
 
  
 ![Image](http://i.imgur.com/v1gUYem.gif" alt="cat gif")

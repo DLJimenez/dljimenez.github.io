@@ -11,6 +11,7 @@ background-color: #595959;
 .container {
 	max-width: 1000px;
 	margin: 0 auto;
+	margin-bottom: 100px;
 }
 
 .hero-img {

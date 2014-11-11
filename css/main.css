@@ -60,6 +60,9 @@ background-color: #595959;
 	position: absolute;
 	width: 100%;
 }
+
+.nav-link.active {
+	background: tomato;
 }
 /*Columns*/
 

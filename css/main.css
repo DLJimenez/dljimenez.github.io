@@ -104,7 +104,12 @@ h1 {
 	color: #45b6ea;
 	text-shadow: 4px 4px black;
 }
-
+/*footer*/
+.site-footer {
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+}
 
 
 

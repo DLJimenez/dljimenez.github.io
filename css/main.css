@@ -99,6 +99,7 @@ h1 {
 }
 /*footer*/
 .site-footer {
+	padding-top: 100px;
 	height: 60px;
 	bottom: 0;
 	position: absolute;

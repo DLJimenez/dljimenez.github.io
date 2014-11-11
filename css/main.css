@@ -1,6 +1,5 @@
 body {
 background-color: #595959;
-padding-bottom: 60px;
 }
 
 * {
@@ -8,6 +7,9 @@ padding-bottom: 60px;
 }
 /*layout*/
 
+.main-container {
+	padding-bottom: 60px;
+}
 .container {
 	max-width: 1000px;
 	margin: 0 auto;

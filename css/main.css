@@ -54,6 +54,12 @@ background-color: #595959;
 .site-footer{
 	border-top: 1px solid white;
 	color: #a1f5ff;
+	margin-top: 100px;
+	height: 60px;
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+}
 }
 /*Columns*/
 
@@ -96,14 +102,6 @@ h1 {
 	text-align: center;
 	color: #45b6ea;
 	text-shadow: 4px 4px black;
-}
-/*footer*/
-.site-footer {
-	padding-top: 100px;
-	height: 60px;
-	bottom: 0;
-	position: absolute;
-	width: 100%;
 }
 
 
